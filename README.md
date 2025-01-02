@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-Hello 👋 Fellow Dev. :)
+Hello! Fellow Dev.
   <img
     width="20px"
     alt="Waving Emoji"

@@ -38,7 +38,7 @@ Hello! Fellow Dev.
 <img align="right" height="150" src="https://img.clipart-library.com/2/clip-transparent-flames-gif/clip-transparent-flames-gif-27.gif" alt="Coding GIF" />
 
 <div align="left">
-  <h4>💻 Had Fun Contributing to Repos Using These Languages </h4>
+  <h4>💻 Contributed Using These Languages </h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />

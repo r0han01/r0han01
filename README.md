@@ -54,11 +54,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" height="30" alt="PostGresSQL" />
-      <img width="12" />
+    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="Linux" />
-      <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/tensorflow" height="30" alt="TensorFlow" />
-      <img width="12" />
+    <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" height="30" alt="TensorFlow" />
+    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-plain.svg" height="30" alt="Wordpress" />
   
 </div>

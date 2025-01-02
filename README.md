@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a Data Scientist, Web Developer, and Cloud Engineer </h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 

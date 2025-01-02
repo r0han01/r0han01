@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/4707754a-c8c2-40f2-8d3d-edd171e2500f" alt="Coding GIF" />
+<img align="right" height="150" src="https://community.wacom.com/en-de/wp-content/uploads/sites/20/2023/10/Flame_GIF_2.gif" alt="Coding GIF" />
 
 <div align="left">
   <h3>💻 Tools & Technologies I Know </h3>

@@ -71,7 +71,7 @@
   <h3>🌐 Let's Stay Connected! </h3>
   <a href="mailto:hello@rkatkam.com"><img src="https://freepngimg.com/thumb/send_email_button/25448-7-send-email-button-transparent.png" height="35" alt="Gmail" /></a>
   <a> </a>
-  <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://github.com/user-attachments/assets/74d57349-52a6-41bb-8dbb-66ba69ea4a1b" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" height="35" alt="LinkedIn" /></a>
 </div>
 
 

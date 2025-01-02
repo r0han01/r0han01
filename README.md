@@ -32,7 +32,13 @@ Hello! Fellow Dev.
 
 ###
 
-<img align="right" style="height: 80px; width: auto; margin-left: 10px;" src="https://i.imgur.com/0ygXhd0.gif" alt="Fire Logo" />
+<img 
+  align="right" 
+  style="height: auto; max-height: 80px; max-width: 100px; width: auto; margin-left: 10px;" 
+  src="https://i.imgur.com/0ygXhd0.gif" 
+  alt="Fire Logo" 
+/>
+
 
 
 <div align="left">

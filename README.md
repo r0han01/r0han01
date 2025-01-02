@@ -109,29 +109,16 @@ Hello! Fellow Dev.
 
 ###
 
-<div style="text-align: left; font-family: 'Arial', sans-serif;">
-  <h3 style="
-    background: linear-gradient(90deg, #ff8c00, #ff4500);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-    font-size: 1.8em;
-    margin: 0;
-    padding: 0;
-  ">
-    🎵 My Current Vibe
-  </h3>
-<p style="
-  margin: 4px 0; 
-  font-style: italic; 
-  font-size: 0.95em; 
-  color: #555; 
-  line-height: 1.4;
-">
-  This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.
-</p>
-
+<div align="left">
+  <h3>🎵 My Current Vibe</h3>
+  <p>This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.</p>
+  <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" />
+  </a>
 </div>
+
+
+###
 
 
 

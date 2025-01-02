@@ -34,6 +34,27 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-plain.svg" height="30" alt="Bootstrap" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cloudflare/cloudflare-original.svg" height="30" alt="CloudFare" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" height="30" alt="Express" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupiter" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-original.svg" height="30" alt="Kubernetes" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" height="30" alt="Photoshop" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="NodeJS" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
+    <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" height="30" alt="PostGresSQL" />
+  
 </div>
 
 ###

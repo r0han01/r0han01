@@ -28,6 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-plain.svg" height="30" alt="Devops" />
 </div>
 
 ###

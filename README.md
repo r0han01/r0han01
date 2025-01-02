@@ -32,7 +32,7 @@ Hello! Fellow Dev.
 
 ###
 
-<img align="right" height="150" src="https://img.clipart-library.com/2/clip-transparent-flames-gif/clip-transparent-flames-gif-27.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://media.tenor.com/_dUxi3qy-KIAAAAi/fire-fireball.gif" alt="Coding GIF" />
 
 <div align="left">
   <h4>💻 Contributed Using These Languages </h4>

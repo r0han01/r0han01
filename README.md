@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <h3>💻 Tech Stack</h3>
+  <h3>💻 Tools & Technologies I Know </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />

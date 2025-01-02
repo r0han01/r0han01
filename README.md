@@ -104,13 +104,16 @@ Hello! Fellow Dev.
 
 <div style="text-align: left;">
   <h2 style="margin: 0; padding: 0;">🎵 My Current Vibe</h2>
-  <p style="margin: 0; padding: 0;"><em>This playlist updates automatically, so visit frequently! I only listen to trending music.</em></p>
+  <span style="display: block; margin: 0; padding: 0; font-style: italic;">
+    This playlist updates automatically, so visit frequently! I only listen to trending music.
+  </span>
   <div style="text-align: center; margin-top: 10px;">
     <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y" target="_blank" style="text-decoration: none;">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" style="max-width: 100%; height: auto; border: none;" />
     </a>
   </div>
 </div>
+
 
 
 

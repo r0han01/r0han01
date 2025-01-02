@@ -32,6 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-plain.svg" height="30" alt="Devops" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-plain.svg" height="30" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cloudflare/cloudflare-original.svg" height="30" alt="CloudFare" />
 </div>
 
 ###

@@ -1,4 +1,8 @@
-<img src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif" height="30" width="100%" alt="JavaScript" />
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif](https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif"
+/>
 
 <h3 align="center">Hello 👋 Fellow Dev. :)</h3>
 

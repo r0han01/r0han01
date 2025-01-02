@@ -11,6 +11,7 @@ Hello! Fellow Dev.
     width="20px"
     alt="Waving Emoji"
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  
   <div align="center">
   <img
     alt="Profile Picture"

@@ -32,9 +32,10 @@
 
 <div align="left">
   <h3>🌐 Let’s Chat! </h3>
-  <a href="mailto:hello@rkatkam.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="mailto:hello@rkatkam.com"><img src="https://github.com/user-attachments/assets/22d8249f-18b5-4581-9302-73f6b2db5b6b" height="35" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://github.com/user-attachments/assets/74d57349-52a6-41bb-8dbb-66ba69ea4a1b" height="35" alt="LinkedIn" /></a>
 </div>
+
 
 
 ###

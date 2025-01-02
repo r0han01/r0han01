@@ -137,12 +137,6 @@ Hello! Fellow Dev.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
-  <div align="center">
-  <img
-    alt="Profile Picture"
-    src="https://cdn.pixabay.com/photo/2012/04/26/14/17/blue-42596_1280.png"/>
-</div>
-
 <img
   width="100%"
   alt="Rainbow"

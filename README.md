@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r0han01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0han01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0han01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
 </div>
 
 ###
@@ -50,5 +50,5 @@
 <div align="center">
   <h3>💀 GitHub Contributions</h3>
   <p>View My Contribution Graph Below:</p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>

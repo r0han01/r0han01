@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/r0han01/r0han01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 

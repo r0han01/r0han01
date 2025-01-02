@@ -110,7 +110,7 @@ Hello! Fellow Dev.
 ###
 
 <div style="text-align: left; font-family: 'Arial', sans-serif;">
-  <h2 style="
+  <h3 style="
     background: linear-gradient(90deg, #ff8c00, #ff4500);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -120,7 +120,7 @@ Hello! Fellow Dev.
     padding: 0;
   ">
     🎵 My Current Vibe
-  </h2>
+  </h3>
   <p style="margin: 4px 0; font-style: italic; color: #555;">
     This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.
   </p>

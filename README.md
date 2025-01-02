@@ -129,7 +129,7 @@ Hello! Fellow Dev.
   <div align="center">
   <img
     alt="Profile Picture"
-    src="https://github.com/user-attachments/assets/a7d874a3-942c-4e04-9760-c57e240b5d1a"/>
+    src="https://github.com/user-attachments/assets/a55cd746-289c-4bb8-a9cb-76c8070b3f0f"/>
 </div>
 
 <img

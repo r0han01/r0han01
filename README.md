@@ -103,7 +103,7 @@ Hello! Fellow Dev.
 ###
 
 <div style="text-align: left;">
-  <h2>🎵 My Current Vibe</h2>
+  <h2 style="margin: 0;">🎵 My Current Vibe</h2>
   <p><em>This playlist updates automatically, so visit frequently! I only listen to trending music.</em></p>
   <div style="text-align: center;">
     <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y" target="_blank" style="text-decoration: none;">

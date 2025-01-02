@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/argocd/argocd-original.svg" height="30" alt="ArgoCD" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />

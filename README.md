@@ -16,7 +16,7 @@ Hello! Fellow Dev.
   <div align="center">
   <img
     alt="Profile Picture"
-    src="https://github.com/user-attachments/assets/9ab48e52-3be9-4381-a7d3-910de7fba3b1"/>
+    src="https://github.com/user-attachments/assets/6911b9da-df32-4f6e-b0bd-6f23edd4aa6c"/>
 </div>
 
 </h3>

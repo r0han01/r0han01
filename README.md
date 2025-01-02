@@ -1,3 +1,5 @@
+<img src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif" height="30" alt="JavaScript" />
+
 <h3 align="center">Hello 👋 Fellow Dev. :)</h3>
 
 ###

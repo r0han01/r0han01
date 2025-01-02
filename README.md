@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Coding GIF" />
 
 ###
 

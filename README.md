@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohan Kumar and I'm a Data Scientist, Web Developer, and Cloud Engineer from Memphis, Tennessee.</h2>
+<h2 align="left">Hi 👋! I'm a Data Scientist, Web Developer, and Cloud Engineer </h2>
 
 ###
 

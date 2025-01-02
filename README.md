@@ -74,7 +74,9 @@
   <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" height="35" alt="LinkedIn" /></a>
 </div>
 
+###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y)
 
 ###
 

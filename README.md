@@ -5,7 +5,7 @@
 />
 
 <h3 align="center">Hello 👋 Fellow Dev. :)</h3>
-<h6>Currently, I am pursuing my master's in Data Science, but I have been persistently looking at Full Stack, DevOps, and Design. Doing all these besides keeping college grades up is a challenge, but I get through it somehow. When I took a class on Neural Networks, I really was amazed to know about a model called Life Long Learning. It hit close to home; it made me a bit uneasy, yet I could relate to that somehow. It was an emotional realization, but I'm enjoying the process of learning something new every day.</h6>
+<h6 align="center">Currently, I am pursuing my master's in Data Science, but I have been persistently looking at Full Stack, DevOps, and Design. Doing all these besides keeping college grades up is a challenge, but I get through it somehow. When I took a class on Neural Networks, I really was amazed to know about a model called Life Long Learning. It hit close to home; it made me a bit uneasy, yet I could relate to that somehow. It was an emotional realization, but I'm enjoying the process of learning something new every day.</h6>
 
 ###
 

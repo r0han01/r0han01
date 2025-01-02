@@ -110,7 +110,7 @@ Hello! Fellow Dev.
 ###
 
 <div align="left">
-  <h3>🎶 My Current Vibe</h3>
+  <h3>I Listen To This Meanwhile</h3>
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" />
   </a>

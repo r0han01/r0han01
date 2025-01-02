@@ -32,7 +32,7 @@ Hello! Fellow Dev.
 
 ###
 
-<img align="right" src="https://media.tenor.com/_dUxi3qy-KIAAAAi/fire-fireball.gif" alt="Coding GIF" />
+<img align="right" height="100px" width="auto" src="https://media.tenor.com/_dUxi3qy-KIAAAAi/fire-fireball.gif" alt="Coding GIF" />
 
 <div align="left">
   <h4>💻 Contributed Using These Languages </h4>

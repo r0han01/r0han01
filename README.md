@@ -40,8 +40,6 @@ Hello! Fellow Dev.
 />
 
 
-
-
 <div align="left">
   <h3> Contributed Using These Languages </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -111,11 +109,16 @@ Hello! Fellow Dev.
 ###
 
 <div align="left">
-  <h3>I Listen To This Meanwhile</h3>
+  <h3 style="font-size: 1.5em; margin: 0;">I Listen To This Meanwhile</h3>
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" />
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" 
+      alt="Spotify recently played" 
+      style="max-width: 100%; height: auto; border: none;" 
+    />
   </a>
 </div>
+
 
 
 ###

@@ -96,6 +96,7 @@ Hello! Fellow Dev.
 ###
 
 <div align="center">
+  <h4> My Current Vibe in Between Coding </h4>
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played"  />
   </a>

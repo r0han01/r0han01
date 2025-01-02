@@ -9,9 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Coding GIF" />
-
-###
+<img align="right" height="150" src="https://github.com/user-attachments/assets/4707754a-c8c2-40f2-8d3d-edd171e2500f" alt="Coding GIF" />
 
 <div align="left">
   <h3>💻 Tools & Technologies I Know </h3>

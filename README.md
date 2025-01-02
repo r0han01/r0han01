@@ -111,7 +111,6 @@ Hello! Fellow Dev.
 
 <div align="left">
   <h3>🎶 My Current Vibe</h3>
-  <p>This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.</p>
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" />
   </a>

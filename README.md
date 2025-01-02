@@ -102,13 +102,16 @@ Hello! Fellow Dev.
 
 ###
 
-<div align="center">
+<div style="text-align: left;">
   <h2>🎵 My Current Vibe</h2>
-  <p><em>This playlist keeps updating by itself , so visit frequently also I only listen to trending music</em></p>
-  <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  <p><em>This playlist updates automatically, so visit frequently! I only listen to trending music.</em></p>
+  <div style="text-align: center;">
+    <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y" target="_blank" style="text-decoration: none;">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1&unique=true" alt="Spotify recently played" style="max-width: 100%; height: auto; border: none;" />
+    </a>
+  </div>
 </div>
+
 
 ###
 

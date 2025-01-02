@@ -49,6 +49,6 @@
 
 <div align="center">
   <h3>📊 GitHub Contributions</h3>
-  <p>View my contribution graph below:</p>
+  <p>View My Contribution Graph Below:</p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </div>

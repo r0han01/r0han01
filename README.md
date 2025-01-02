@@ -4,7 +4,15 @@
   src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif"
 />
 
-<h3 align="center">Hello 👋 Fellow Dev. :)</h3>
+
+<h3 align="center">
+Hello 👋 Fellow Dev. :)
+  <img
+    width="20px"
+    alt="Waving Emoji"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  />
+</h3>
 <div align="center">Currently, I am pursuing my master's 🎓 in <strong>Data Science</strong>, but I have been persistently looking at <strong>Full Stack, DevOps, and Design</strong>. Doing all these besides keeping college grades up ☝🏻 is a challenge, but I get through it somehow. When I took a course on Neural Networks, I really was amazed to know about a model called <strong>Life Long Learning</strong>. It hit close to me ❤️‍🩹; it made me a bit uneasy, yet I could relate to that somehow. It was an emotional realization, but I'm enjoying 🐬 the process of learning something new every day 🔆. You can find my projects here on my <a href="https://github.com/r0han01?tab=repositories" target="_blank">GitHub</a>!</div>
 
 

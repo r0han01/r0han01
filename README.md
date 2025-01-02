@@ -35,7 +35,7 @@ Hello! Fellow Dev.
 <img 
   align="right" 
   style="height: 80px; width: auto; margin-left: 10px;" 
-  src="https://media.tenor.com/sOohwYUROB8AAAAj/weedmaps-420.gif" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwNzBuMnR1Zjgyc2gwbzJ6bXUzdGViMTdudDQ2Njluam93ZHY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0K68Ebl0KghSQlDzA/giphy.webp" 
   alt="Fire Logo" 
 />
 

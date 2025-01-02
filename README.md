@@ -121,9 +121,16 @@ Hello! Fellow Dev.
   ">
     🎵 My Current Vibe
   </h3>
-  <p style="margin: 4px 0; font-style: italic; color: #555;">
-    This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.
-  </p>
+<p style="
+  margin: 4px 0; 
+  font-style: italic; 
+  font-size: 0.95em; 
+  color: #555; 
+  line-height: 1.4;
+">
+  This playlist keeps updating by itself, so visit frequently! Also, I only listen to trending music.
+</p>
+
 </div>
 
 

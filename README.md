@@ -101,3 +101,9 @@
   <p>View My Contribution Graph Below:</p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif"
+/>

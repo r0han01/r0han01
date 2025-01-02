@@ -60,6 +60,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" height="30" alt="TensorFlow" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-plain.svg" height="30" alt="Wordpress" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/yaml/yaml-original.svg" height="30" alt="YAML" />
   
 </div>
 

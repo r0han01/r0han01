@@ -32,7 +32,8 @@ Hello! Fellow Dev.
 
 ###
 
-<img align="right" height="100px" width="auto" src="https://media.tenor.com/_dUxi3qy-KIAAAAi/fire-fireball.gif" alt="Coding GIF" />
+<img align="right" style="height: 80px; width: auto; margin-left: 10px;" src="https://i.imgur.com/0ygXhd0.gif" alt="Fire Logo" />
+
 
 <div align="left">
   <h4>💻 Contributed Using These Languages </h4>

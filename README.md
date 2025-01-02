@@ -16,10 +16,7 @@ Hello! Fellow Dev.
   <div align="center">
   <img
     alt="Profile Picture"
-    src="https://github.com/user-attachments/assets/cf68e070-c1ea-49fb-ad84-7e312dbfea87")
-")
-")
-"/>
+    src="https://github.com/user-attachments/assets/cf68e070-c1ea-49fb-ad84-7e312dbfea87"/>
 </div>
 
 </h3>
@@ -124,6 +121,12 @@ Hello! Fellow Dev.
   <h3>💀 GitHub Contributions</h3>
   <p>View My Contribution Graph Below:</p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=r0han01&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+  <div align="center">
+  <img
+    alt="Profile Picture"
+    src="https://github.com/user-attachments/assets/a7d874a3-942c-4e04-9760-c57e240b5d1a"/>
 </div>
 
 <img

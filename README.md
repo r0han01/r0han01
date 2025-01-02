@@ -74,9 +74,14 @@
   <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" height="35" alt="LinkedIn" /></a>
 </div>
 
+
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&width={width})
+<div align="center">
+  <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 

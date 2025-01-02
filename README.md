@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI3anV2OGZpemN0Znl5bnY1azM5cTdsa2U4N29hNGJ0ajg1bWMweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KanivNSR8L1Q8XD46T/giphy.webp" alt="Coding GIF" />
+<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI3anV2OGZpemN0Znl5bnY1azM5cTdsa2U4N29hNGJ0ajg1bWMweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KanivNSR8L1Q8XD46T/giphy.webp" alt="Coding GIF" />
 
 <div align="left">
   <h3>💻 Tools & Technologies I Know </h3>

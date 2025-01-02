@@ -120,10 +120,6 @@ Hello! Fellow Dev.
 
 ###
 
-
-
-
-
 ###
 
 <br clear="both">

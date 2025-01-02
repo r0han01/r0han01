@@ -140,7 +140,7 @@ Hello! Fellow Dev.
   <div align="center">
   <img
     alt="Profile Picture"
-    src="https://github.com/user-attachments/assets/a55cd746-289c-4bb8-a9cb-76c8070b3f0f"/>
+    src="https://cdn.pixabay.com/photo/2012/04/26/14/17/blue-42596_1280.png"/>
 </div>
 
 <img

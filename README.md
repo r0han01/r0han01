@@ -107,7 +107,7 @@ Hello! Fellow Dev.
 
 ###
 
-```javascript
+```css
 r0han:
   skills:
     - "Data Science"

@@ -106,41 +106,23 @@ Hello! Fellow Dev.
 </div>
 
 ###
-```
-\documentclass{article}
-\usepackage{amsmath}
-\usepackage{graphicx}
 
-\title{r0han's Profile}
-\author{r0han}
-\date{\today}
+- **Skills**:
+  - Data Science 📊
+  - Machine Learning 🤖
+  - Data Visualization 📉
+  - Statistical Analysis 📐
+  - Big Data Technologies 🛠️
+  - Python for Data Science 🐍
 
-\begin{document}
-\maketitle
+- **Currently Learning**: 
+  - Data Structures with Python 🧑‍💻
+  - Oracle DBMS 🏦
+  - Algorithms 🔄
+  - Web Development with MERN Stack 💻
+  - Data Science 📊
 
-\section*{Skills}
-\begin{itemize}
-    \item Data Science
-    \item Machine Learning
-    \item Data Visualization
-    \item Statistical Analysis
-    \item Big Data Technologies
-    \item Python for Data Science
-\end{itemize}
-
-\section*{Currently Learning}
-\begin{itemize}
-    \item Data Structures with Python
-    \item Oracle DBMS
-    \item Algorithms
-    \item Web Development with MERN Stack
-    \item Data Science
-\end{itemize}
-
-\section*{Pronouns}
-He/Him/His
-\end{document}
-```
+- **Pronouns**: He/Him/His 🏳️‍🌈
 
 
 

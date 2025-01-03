@@ -107,7 +107,7 @@ Hello! Fellow Dev.
 
 ###
 
-```yaml
+```javascript
 r0han:
   skills:
     - "Data Science"

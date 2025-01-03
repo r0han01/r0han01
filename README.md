@@ -107,23 +107,24 @@ Hello! Fellow Dev.
 
 ###
 
-- **Skills**:
-  - Data Science 📊
-  - Machine Learning 🤖
-  - Data Visualization 📉
-  - Statistical Analysis 📐
-  - Big Data Technologies 🛠️
-  - Python for Data Science 🐍
+<h3> What I Know ? </h3>
 
-- **Currently Learning**: 
-  - Data Structures with Python 🧑‍💻
-  - Oracle DBMS 🏦
-  - Algorithms 🔄
-  - Web Development with MERN Stack 💻
-  - Data Science 📊
-
-- **Pronouns**: He/Him/His 🏳️‍🌈
-
+```json
+{
+  "r0han": {
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Big Data Technologies",
+      "Python for Data Science"
+    ],
+    "currentlyLearning": "Data Structures with Python, Oracle DBMS, Algorithms, Web Development with MERN Stack, Data Science",
+    "pronouns": ["He", "Him", "His"]
+  }
+}
+```
 
 
 ###

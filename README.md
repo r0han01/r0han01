@@ -32,7 +32,7 @@ Hello! Fellow Dev.
 
 ###
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img 
     style="height: 80px; width: auto; margin-left: 10px;" 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwNzBuMnR1Zjgyc2gwbzJ6bXUzdGViMTdudDQ2Njluam93ZHY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0K68Ebl0KghSQlDzA/giphy.webp" 

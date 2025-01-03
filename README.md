@@ -129,7 +129,7 @@ Hello! Fellow Dev.
 
 
 ###
-<h4 align="center">Meanwhile Coding I Listen To This!!!</h4>
+<h4 align="center">Meanwhile I Listen To This!!!</h4>
 <div align="center">
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ykmujtprrxbqzzmoxnlbjlay5y&count=1" alt="Spotify recently played"  />

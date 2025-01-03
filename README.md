@@ -26,7 +26,7 @@ Hello! Fellow Dev.
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
   <img 
-    style="height: auto; width: 100%;" 
+    style="width: 100%;" 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwNzBuMnR1Zjgyc2gwbzJ6bXUzdGViMTdudDQ2Njluam93ZHY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0K68Ebl0KghSQlDzA/giphy.webp" 
     alt="Fire Logo" />
 </div>

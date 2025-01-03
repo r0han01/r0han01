@@ -106,7 +106,7 @@ Hello! Fellow Dev.
 </div>
 
 ###
-
+```
 \documentclass{article}
 \usepackage{amsmath}
 \usepackage{graphicx}
@@ -140,7 +140,7 @@ Hello! Fellow Dev.
 \section*{Pronouns}
 He/Him/His
 \end{document}
-
+```
 
 
 

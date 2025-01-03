@@ -138,6 +138,11 @@ Hello! Fellow Dev.
 
 <img
   width="100%"
+  alt="Footer"
+  src="https://github.com/user-attachments/assets/3bc7db70-8aa2-4b22-8315-f98a214b1966"/>
+
+<img
+  width="100%"
   alt="Rainbow"
   src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif"
 />

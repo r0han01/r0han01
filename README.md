@@ -22,14 +22,6 @@ Hello! Fellow Dev.
 </h3>
 <div align="center">Currently, I am pursuing my master's 🎓 in <strong>Data Science</strong>, but I have been persistently looking at <strong>Full Stack, DevOps, and Design</strong>. Doing all these besides keeping college grades up ☝🏻 is a challenge, but I get through it somehow. When I took a course on Neural Networks, I really was amazed to know about a model called <strong>Life Long Learning</strong>. It hit close to me ❤️‍🩹; it made me a bit uneasy, yet I could relate to that somehow. It was an emotional realization, but I'm enjoying 🐬 the process of learning something new every day 🔆. You can find my projects here on my <a href="https://github.com/r0han01?tab=repositories" target="_blank">GitHub</a>!</div>
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0han01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0han01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
-</div>
-
 ###
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -38,6 +30,14 @@ Hello! Fellow Dev.
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwNzBuMnR1Zjgyc2gwbzJ6bXUzdGViMTdudDQ2Njluam93ZHY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0K68Ebl0KghSQlDzA/giphy.webp" 
     alt="Fire Logo" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r0han01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0han01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages" />
+</div>
+
 
 ###
 

@@ -107,20 +107,21 @@ Hello! Fellow Dev.
 
 ###
 
-```css
-r0han:
-  skills:
-    - "Data Science"
-    - "Machine Learning"
-    - "Data Visualization"
-    - "Statistical Analysis"
-    - "Big Data Technologies"
-    - "Python for Data Science"
-  currentlyLearning: "Data Structures with Python, Oracle DBMS, Algorithms, Web Development with MERN Stack, Data Science"
-  pronouns:
-    - "He"
-    - "Him"
-    - "His"
+```JSON
+{
+  "r0han": {
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Big Data Technologies",
+      "Python for Data Science"
+    ],
+    "currentlyLearning": "Data Structures with Python, Oracle DBMS, Algorithms, Web Development with MERN Stack, Data Science",
+    "pronouns": ["He", "Him", "His"]
+  }
+}
 ```
 
 

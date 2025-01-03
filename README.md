@@ -99,7 +99,7 @@ Hello! Fellow Dev.
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>Let's Stay Connected! </h3>
   <a href="mailto:hello@rkatkam.com"><img src="https://freepngimg.com/thumb/send_email_button/25448-7-send-email-button-transparent.png" height="35" alt="Gmail" /></a>
   <a> </a>

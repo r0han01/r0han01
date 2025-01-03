@@ -105,6 +105,24 @@ Hello! Fellow Dev.
   <a href="https://www.linkedin.com/in/rohan-kumar-562404307"><img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" height="35" alt="LinkedIn" /></a>
 </div>
 
+###
+
+```yaml
+r0han:
+  skills:
+    - "Data Science"
+    - "Machine Learning"
+    - "Data Visualization"
+    - "Statistical Analysis"
+    - "Big Data Technologies"
+    - "Python for Data Science"
+  currentlyLearning: "Data Structures with Python, Oracle DBMS, Algorithms, Web Development with MERN Stack, Data Science"
+  pronouns:
+    - "He"
+    - "Him"
+    - "His"
+```
+
 
 ###
 

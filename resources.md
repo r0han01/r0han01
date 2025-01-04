@@ -2,11 +2,9 @@
 ##### Welcome to my profile! Here, I've compiled a list of the amazing resources that helped me create this cool and engaging README. Feel free to check them out and use them for your own profile!
 
 <p align="center">
-  <img 
-    style="height: 80px; width: auto;" 
-    src="![text](https://github.com/user-attachments/assets/33d109ba-5caa-4dc1-81a3-b0680650751d)" 
-    alt="GIF" />
+  <img src="https://github.com/user-attachments/assets/dc4731e2-2a64-4180-8e79-e5195df9675f" alt="text">
 </p>
+
 
 #### 1. Tech Stack Icons
 - To display the tech stack icons in my profile, I used the amazing Devicons repository created by a fellow developer. This repository offers a huge collection of beautiful tech stack icons that you can use to visually represent technologies in your README.

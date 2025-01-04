@@ -94,6 +94,8 @@ Hello! Fellow Dev.
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/yaml/yaml-original.svg" height="30" alt="YAML" />
   <img width="12" />
   <img src="https://logosandtypes.com/wp-content/uploads/2020/08/sas.svg" height="30" alt="SAS" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb" />
   
 </div>
 

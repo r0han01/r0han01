@@ -158,13 +158,13 @@ Hello! Fellow Dev.
 </div>
 
 
-
 <img
-  margin-top = "-20px",
   width="100%"
   alt="Rainbow"
   src="https://github.com/user-attachments/assets/a28f274b-0290-4d01-9b98-54fd14835e3a"
+  style="margin-top: -20%;"
 />
+
 
 
 <img

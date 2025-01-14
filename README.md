@@ -154,7 +154,9 @@ Hello! Fellow Dev.
 <div align="center">
   <h3>💀 GitHub Contributions</h3>
   <p>View My Contribution Graph Below:</p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r0han01&theme=github-dark-blue&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=r0han01&theme=github-dark-blue&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" />
+  </a>
 </div>
 
 

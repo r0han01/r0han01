@@ -24,15 +24,6 @@ Hello! Fellow Dev.
 
 ###
 
-<p align="center">
-  <img 
-    style="height: 80px; width: auto;" 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwNzBuMnR1Zjgyc2gwbzJ6bXUzdGViMTdudDQ2Njluam93ZHY2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0K68Ebl0KghSQlDzA/giphy.webp" 
-    alt="Weed" />
-</p>
-
-###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r0han01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />

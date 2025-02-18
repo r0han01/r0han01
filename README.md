@@ -13,7 +13,7 @@ Hello! Fellow Dev.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2500&pause=1000&color=FF00FF&center=true&width=620&height=40&lines=Love+Coding+But+Hate+Sitting%2C+So+I+Try+Automate+Everything!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2500&pause=1000&color=FF00FF&center=true&width=620&height=50&lines=Love+Coding+But+Hate+Sitting%2C+So+I+Try+Automate+Everything!" alt="Typing SVG" />
   </a>
 </p>
  

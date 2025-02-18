@@ -12,8 +12,6 @@ Hello! Fellow Dev.
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
   
 ### 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=0BF700&width=435&lines=Love+coding+but+hate+sitting%2C+so+I+try+automate+everything!)](https://git.io/typing-svg)
   
   <div align="center">
   <img

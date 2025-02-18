@@ -17,7 +17,7 @@ Hello! Fellow Dev.
   </a>
 </p>
  
-<div align="center" style="margin-top: -20px;">
+<div align="center" style="margin-top: -50px;">
   <img
     alt="Profile Picture"
     src="https://github.com/user-attachments/assets/34b1a8e5-f02a-486a-8bae-3ff6c8c07c50"/>

@@ -19,12 +19,10 @@
   </a>
 </p>
 
-<!-- Profile Picture -->
 <div align="center">
   <img
     alt="Profile Picture"
-    src="https://github.com/user-attachments/assets/34b1a8e5-f02a-486a-8bae-3ff6c8c07c50"
-    width="200px"/>
+    src="https://github.com/user-attachments/assets/34b1a8e5-f02a-486a-8bae-3ff6c8c07c50"/>
 </div>
 
 

@@ -5,20 +5,18 @@
 
 
 <h3 align="center">
-  Hello! Fellow Dev.
+Hello! Fellow Dev.
   <img
     width="20px"
     alt="Waving Emoji"
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
-</h3>
 
-<!-- Typing SVG -->
-<p align="center" style="margin-bottom: -20px;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2500&pause=1000&color=FF00FF&center=true&width=620&height=70&lines=Love+Coding+But+Hate+Sitting%2C+So+I+Try+Automate+Everything!" alt="Typing SVG" />
   </a>
 </p>
-
+ 
 <div align="center">
   <img
     alt="Profile Picture"

@@ -10,6 +10,13 @@ Hello! Fellow Dev.
     width="20px"
     alt="Waving Emoji"
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2500&pause=1000&color=FF00FF&center=true&width=620&height=70&lines=Love+Coding+But+Hate+Sitting%2C+So+I+Try+Automate+Everything!" alt="Typing SVG" />
+  </a>
+</p>
+
   
 ### 
   
@@ -159,23 +166,6 @@ Hello! Fellow Dev.
     src="https://github.com/user-attachments/assets/a28f274b-0290-4d01-9b98-54fd14835e3a"
   />
 </div>
-
-<p align="center">
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=2500&pause=1000&color=1E90FF&center=true&multiline=true&width=500&height=70&lines=Love+Coding+But+Hate+Sitting;So+I+Try+Automate+Everything!" 
-    alt="Typing SVG"/>
-  </a>  
-  <br>
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-</p>
-
-
-
-
-
-
 
 <img
   width="100%"

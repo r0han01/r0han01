@@ -160,11 +160,11 @@ Hello! Fellow Dev.
   />
 </div>
 
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=100&pause=1000&color=00FF00&center=true&multiline=true&width=435&lines=Love+Coding+But+Hate+Sitting;So+I+Try+Automate+Everything!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&pause=1000&color=00FF00&center=true&multiline=true&width=435&lines=Love+Coding+But+Hate+Sitting;So+I+Try+Automate+Everything!" alt="Typing SVG" />
 </a>
-###
+
+
 <img
   width="100%"
   alt="Rainbow"

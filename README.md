@@ -16,8 +16,7 @@ Hello! Fellow Dev.
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2500&pause=1000&color=FF00FF&center=true&width=620&height=70&lines=Love+Coding+But+Hate+Sitting%2C+So+I+Try+Automate+Everything!" alt="Typing SVG" />
   </a>
 </p>
-<!-- Add spacing below the typing SVG -->
-<br>  
+ 
 <div align="center">
   <img
     alt="Profile Picture"

@@ -161,8 +161,7 @@ Hello! Fellow Dev.
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=0BF700&width=435&lines=Love+coding+but+hate+sitting;so+I+try+automate+everything!)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=0BF700&width=435&lines=Love+coding+but+hate+sitting;so+I+try+automate+everything!" alt="Typing SVG" /></a>
 
 <img
   width="100%"

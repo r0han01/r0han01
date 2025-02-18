@@ -161,12 +161,16 @@ Hello! Fellow Dev.
 </div>
 
 <p align="center">
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=2500&pause=1000&color=1E90FF&center=true&multiline=true&width=500&height=70&lines=Love+Coding+But+Hate+Sitting;So+I+Try+Automate+Everything!" 
-    alt="Typing SVG" 
-    style="border: 2px dotted #1E90FF; padding: 10px; border-radius: 8px;" />
-  </a>
+    alt="Typing SVG"/>
+  </a>  
+  <br>
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
 </p>
+
 
 
 

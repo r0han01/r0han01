@@ -23,9 +23,9 @@
   <a href="mailto:hi@rkatkam.com"><img src="https://img.shields.io/badge/hi%40rkatkam.com-161b22?style=for-the-badge&logo=maildotru&logoColor=7aa2f7&labelColor=0d1117" alt="Email"/></a>
 </p>
 
-<p align="center"><img src="assets/currently.svg?v=3" width="860" alt="Currently: Curious about everything. Where my head's at lately. Mind on AI engineering courses, back to back. Always watching tech news and travel vlogs. Getting better at explaining things simply. Daydreaming of the Dolomites and US national parks."/></p>
+<p align="center"><img src="assets/currently-v3.svg" width="860" alt="Currently: Curious about everything. Where my head's at lately. Mind on AI engineering courses, back to back. Always watching tech news and travel vlogs. Getting better at explaining things simply. Daydreaming of the Dolomites and US national parks."/></p>
 
-<p align="center"><img src="assets/divider.svg?v=2" width="860" alt=""/></p>
+<p align="center"><img src="assets/divider-v2.svg" width="860" alt=""/></p>
 
 <p align="center"><img src="assets/stack.svg" width="860" alt="Stack: Snowflake, Python, LangChain, Claude, TypeScript, NestJS, Next.js, AWS, Docker, Kubernetes, Terraform and more"/></p>
 

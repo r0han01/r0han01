@@ -42,10 +42,6 @@ Back in a Neural Networks course I came across a model called <strong>Life Long 
   <a href="https://github.com/r0han01/pinecone-migration-verifier"><img src="assets/cards/pinecone-migration-verifier.svg" width="420" alt="pinecone-migration-verifier"/></a>
 </p>
 
-<br/>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r0han01/r0han01/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r0han01/r0han01/output/snake-light.svg"/>

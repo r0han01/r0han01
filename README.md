@@ -9,7 +9,7 @@
 
 <h4 align="center">Back in a Neural Networks course I came across a model called Life Long Learning. It still describes how I work: learn something new every day, and most of it ends up as a project here.</h4>
 
-<h3 align="center">🎧 Meanwhile, I listen to this while I code</h3>
+<h3 align="center">♫ Meanwhile, I listen to this while I code</h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">

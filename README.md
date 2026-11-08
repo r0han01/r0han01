@@ -7,23 +7,23 @@
   <img alt="Rohan" src="https://github.com/user-attachments/assets/34b1a8e5-f02a-486a-8bae-3ff6c8c07c50"/>
 </div>
 
+<h4 align="center">Back in a Neural Networks course I came across a model called Life Long Learning. It still describes how I work: learn something new every day, and most of it ends up as a project here.</h4>
+
+<h3 align="center">🎧 Meanwhile, I listen to this while I code</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ykmujtprrxbqzzmoxnlbjlay5y&theme=spotify&count=1&width=700&duration=1&album=1&username=off&footer=none&header=off" alt="Spotify recently played"  />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://rkatkam.com"><img src="https://img.shields.io/badge/rkatkam.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7&labelColor=0d1117" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/r0han01"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=0d1117" alt="LinkedIn"/></a>
   <a href="mailto:hi@rkatkam.com"><img src="https://img.shields.io/badge/hi%40rkatkam.com-161b22?style=for-the-badge&logo=maildotru&logoColor=7aa2f7&labelColor=0d1117" alt="Email"/></a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ykmujtprrxbqzzmoxnlbjlay5y">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ykmujtprrxbqzzmoxnlbjlay5y&theme=spotify&count=1&width=560&duration=1&album=1&username=off&footer=wave" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-Back in a Neural Networks course I came across a model called <strong>Life Long Learning</strong>. It still describes how I work: learn something new every day, and most of it ends up as a project here.
-</p>
+<p align="center"><img src="assets/currently.svg" width="860" alt="Currently: Curious about everything. Where my head's at lately. Mind on AI engineering courses, back to back. Always watching tech news and travel vlogs. Getting better at explaining things simply. Daydreaming of the Dolomites and US national parks."/></p>
 
 <p align="center"><img src="assets/learning.svg" width="860" alt="Learning path: agent patterns through spec-driven development done, context and memory now, evals, red-teaming and data agents next"/></p>
 

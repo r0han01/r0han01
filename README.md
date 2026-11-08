@@ -25,7 +25,7 @@
 
 <p align="center"><img src="assets/currently.svg" width="860" alt="Currently: Curious about everything. Where my head's at lately. Mind on AI engineering courses, back to back. Always watching tech news and travel vlogs. Getting better at explaining things simply. Daydreaming of the Dolomites and US national parks."/></p>
 
-<p align="center"><img src="assets/learning.svg" width="860" alt="Learning path: agent patterns through spec-driven development done, context and memory now, evals, red-teaming and data agents next"/></p>
+<p align="center"><img src="assets/divider.svg" width="860" alt=""/></p>
 
 <p align="center"><img src="assets/stack.svg" width="860" alt="Stack: Snowflake, Python, LangChain, Claude, TypeScript, NestJS, Next.js, AWS, Docker, Kubernetes, Terraform and more"/></p>
 
